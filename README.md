@@ -8,4 +8,6 @@ Housing Price.
 
 File pdf dengan judul "Laporan Tugas Individu - 33221018 Arief Sartono" berisikan laporan yang menjelaskan secara detil dari kedua model diatas.
 
+File pdf dengan judul "Laporan Tugas Individu - 33221018 Arief Sartono - Rev 1" berisikan laporan yang menjelaskan secara detil dari kedua model diatas, dengan perbaikan cuplikan coding pada bagian 2.4 dan 2.5.
+
 File pdf dengan judul "Tugas Individu - Deskripsi Tugas Eksplorasi Hyperparameter CNN dan NN" berisikan deskripsi tugas dari dosen pengampu.
